@@ -27,7 +27,7 @@ public class MobileNotifications : MonoBehaviour
     */
 
 
-    static int[] firetimes = new int[] { 8, 11, 14, 17, 20, 22, 23 };
+    static int[] firetimes = new int[] { 8, 11, 14, 17, 20 };
     static string reminderText = "The window opens soon";
     static string notificationText = "Now the window has opened";
     static string alertText = "The window has already been opened";
